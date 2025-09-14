@@ -1,6 +1,6 @@
 # Data Explainability Chatbot
 
-Developed as my final-year B.Tech project, this chatbot provides explainability for machine learning and deep learning models by generating natural language explanations of model predictions.  
+This chatbot provides explainability for machine learning and deep learning models by generating natural language explanations of model predictions.  
 It integrates state-of-the-art XAI (Explainable AI) techniques to enhance trust, interpretability, and transparency in AI systems.
 
 ---
